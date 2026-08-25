@@ -1,0 +1,33 @@
+main:
+  - name: "Главная"
+    url: "/"
+    weight: 10
+
+  - name: "Обо мне"
+    url: "/#about"
+    weight: 20
+
+  - name: "Образование"
+    url: "/#education"
+    weight: 30
+
+  - name: "Интересы"
+    url: "/#interests"
+    weight: 40
+
+  - name: "Проект"
+    url: "/#projects"
+    weight: 50
+
+  - name: "Этапы"
+    url: "/#stages"
+    weight: 60
+
+  - name: "Итоги недели"
+    url: "/#week"
+    weight: 70
+
+  - name: "GitHub"
+    url: "/#github"
+    weight: 80
+    
