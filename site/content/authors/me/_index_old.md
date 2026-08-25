@@ -29,5 +29,28 @@ education:
     - course: Фундаментальная информатика и информационные технологии
       institution: Российский университет дружбы народов
       year: 2025
----
+      skills:
+    - name: Linux
+      level: 80
 
+    - name: C++
+      level: 75
+
+    - name: Python
+      level: 70
+
+    - name: HTML
+      level: 85
+
+    - name: CSS
+      level: 80
+
+    - name: Git
+      level: 75
+
+    - name: GitHub
+      level: 75
+
+    - name: Hugo
+      level: 65
+---

@@ -1,33 +1,73 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: Опыт
+date: 2025-01-01
 type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
 ---
+
+## Опыт в разработке
+
+### Учебные проекты
+
+В рамках обучения я выполняю практические работы, связанные с программированием и информационными технологиями.
+
+Основные направления:
+
+- разработка программ на C++;
+- программирование на Python;
+- разработка веб-страниц;
+- работа с HTML и CSS;
+- работа с Linux;
+- использование командной строки;
+- работа с Git и GitHub;
+- создание статических сайтов с помощью Hugo.
+
+### Веб-разработка
+
+Изучаю создание современных веб-сайтов с использованием:
+
+- HTML;
+- CSS;
+- JavaScript;
+- Bootstrap;
+- Hugo;
+- HugoBlox.
+
+### Работа с Linux
+
+Получаю практический опыт работы с операционной системой Linux:
+
+- командная строка;
+- Bash;
+- файловая система;
+- права доступа;
+- процессы;
+- Git;
+- автоматизация задач.
+
+### Git и GitHub
+
+Использую Git для управления версиями учебных проектов.
+
+Работаю с:
+
+- репозиториями;
+- ветками;
+- commit;
+- push и pull;
+- GitHub Pages;
+- GitHub Actions.
+
+### Индивидуальный проект
+
+В рамках индивидуального проекта разрабатываю персональный сайт.
+
+Используемые технологии:
+
+- Hugo;
+- HugoBlox;
+- Markdown;
+- HTML;
+- CSS;
+- Git;
+- GitHub;
+- GitHub Pages.
