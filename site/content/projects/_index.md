@@ -1,22 +1,36 @@
 ---
-title: 'Projects'
-date: 2024-05-19
-type: landing
-
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - projects
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+title: "Linux и Bash"
+summary: "Учебные проекты и лабораторные работы по Linux, Bash и командной строке."
+date: 2026-08-27
+tags:
+  - Linux
+  - Bash
+  - Fedora
+  - Shell
 ---
+
+# Linux и Bash
+
+Учебный проект, объединяющий практические работы по операционной системе Linux и командной строке.
+
+## Изученные технологии
+
+- Linux;
+- Fedora;
+- Bash;
+- PowerShell;
+- файловая система;
+- права доступа;
+- процессы;
+- переменные;
+- условия;
+- циклы;
+- командные файлы.
+
+## Практическая часть
+
+В рамках лабораторных работ создавались Bash-скрипты, выполнялась работа с файлами и каталогами, изучались команды Linux и автоматизация задач.
+
+## Цель
+
+Получить практические навыки администрирования Linux и программирования в командном интерпретаторе.
