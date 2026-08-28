@@ -36,6 +36,34 @@ links:
     url: https://github.com/YalkabovYslam-001
     label: GitHub
 
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=ru&user=4RI1538AAAAJ
+    label: Google Scholar
+
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0003-2299-5619
+    label: ORCID
+
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+    label: Mendeley
+
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Yslam-Yalkabov
+    label: ResearchGate
+
+  - icon: academicons/academia
+    url: https://independent.academia.edu/YslamYalkabov
+    label: Academia.edu
+
+  - icon: academicons/arxiv
+    url: https://arxiv.org/
+    label: arXiv
+
+  - icon: academicons/elibrary
+    url: https://elibrary.ru/
+    label: eLibrary
+
 interests:
   - Программирование
   - Linux
