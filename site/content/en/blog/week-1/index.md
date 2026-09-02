@@ -1,4 +1,4 @@
-
+---
 title: "Weekly Summary: Personal Website Development"
 
 summary: "Results of the individual project work during the first week."
