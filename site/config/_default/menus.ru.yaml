@@ -1,0 +1,28 @@
+main:
+  - name: "Главная"
+    pageRef: /
+    weight: 10
+
+  - name: "Обо мне"
+    pageRef: /
+    weight: 20
+
+  - name: "Навыки"
+    pageRef: /skills
+    weight: 30
+
+  - name: "Опыт"
+    pageRef: /experience
+    weight: 40
+
+  - name: "Достижения"
+    pageRef: /accomplishments
+    weight: 50
+
+  - name: "Проекты"
+    pageRef: /projects
+    weight: 60
+
+  - name: "Посты"
+    pageRef: /blog
+    weight: 70
